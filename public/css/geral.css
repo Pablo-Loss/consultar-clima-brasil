@@ -1,0 +1,5 @@
+body {
+    .form-floating input {
+        width: 50%;
+    }
+}

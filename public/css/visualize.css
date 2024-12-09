@@ -1,0 +1,31 @@
+p.h1 {
+    display: flex;
+}
+
+p.h1 img {
+    width: 45px;
+    height: 45px;
+    margin-top: 10px;
+}
+
+.card .card-body .card-title {
+    display: flex;
+}
+
+.card .card-body .card-title img {
+    width: 25px;
+    height: 25px;
+}
+
+.card div#header-info {
+    display: flex;
+}
+
+.card div#header-info img {
+    width: 25px;
+    height: 25px;
+}
+
+.card .card-body h5#title-infos-gerais {
+    color: green;
+}

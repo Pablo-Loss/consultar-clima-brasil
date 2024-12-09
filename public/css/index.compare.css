@@ -1,0 +1,20 @@
+#cidade1, #cidade2 {
+    background-color: lightgray;
+}
+
+#card-cidade-2 {
+    margin-left: 65px;
+}
+
+.card div#header-info, #cidades-compare {
+    display: flex;
+}
+
+.card div#header-info img {
+    width: 25px;
+    height: 25px;
+}
+
+.card .card-body h5#title-infos-gerais {
+    color: green;
+}
